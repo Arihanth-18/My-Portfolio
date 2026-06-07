@@ -1,0 +1,15 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif}
+body{background:#0f172a;color:#fff;line-height:1.6}
+header{background:#111827}
+nav{display:flex;justify-content:space-between;align-items:center;padding:20px 10%}
+nav ul{display:flex;list-style:none} nav li{margin-left:20px}
+nav a{color:white;text-decoration:none}
+.hero{text-align:center;padding:120px 20px}
+.hero h1{font-size:3rem}
+.btn{display:inline-block;margin-top:20px;padding:12px 25px;background:#3b82f6;color:#fff;text-decoration:none;border-radius:6px}
+.section{padding:80px 10%}
+.section h2{margin-bottom:20px;color:#60a5fa}
+.card{background:#1e293b;padding:20px;border-radius:10px;margin-bottom:20px}
+.skills-container{display:flex;flex-wrap:wrap;gap:10px}
+.skills-container span{background:#2563eb;padding:10px 15px;border-radius:20px}
+footer{text-align:center;padding:20px;background:#111827}
